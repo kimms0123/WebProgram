@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL=https://github.com/itdanjalog/kor2024_2/blob/master/src/day25/boardservice9mvc/data.txt
